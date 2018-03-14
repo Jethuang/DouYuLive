@@ -3,7 +3,7 @@
 //  DouYuLive
 //
 //  Created by 黄江龙 on 2018/3/14.
-//  Copyright © 2018年 huangjianglong. All rights reserved.
+//  Copyright © 2018年 hu angjianglong. All rights reserved.
 //
 
 import UIKit
